@@ -19,6 +19,18 @@
 </div>
 ---
 
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+
+- :computer: Currently studying Applied Computer Technology at United States International University.
+  
+- :robot: Passionate about Artificial Intelligence and Machine Learning.
+
+- :bulb: Enjoy working on programming projects and exploring new technologies.
+
+- :books: Actively learning new programming languages and algorithms.
+
+- :e-mail: Feel free to email me at [ellyokelo@gmail.com](mailto:ellyokelo@gmail.com) or connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Mahdi-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ellyokelo/)).
 
 
 - ## #30NitesOfCode:
