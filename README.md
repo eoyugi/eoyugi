@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :books: Actively learning new programming languages and algorithms.
 
-- :e-mail: Feel free to email me at [ellyokelo@gmail.com](mailto:ellyokelo@gmail.com) or connect with me on [![Linkedin Badge](https://img.shields.io/badge/-EllyOkello-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ellyokelo/)).
+:e-mail: Feel free to email me at [ellyokelo@gmail.com](mailto:ellyokelo@gmail.com) or connect with me on [![Linkedin Badge](https://img.shields.io/badge/-EllyOkello-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellyokelo/).
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
