@@ -62,8 +62,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-- ## #30NitesOfCode:
+ ### :30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@eoyugi/30-nites-of-code)  
   ![@eoyugi #30NitesOfCode](https://www.codedex.io/api/petStatus?user=eoyugi)
 
